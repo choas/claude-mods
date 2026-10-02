@@ -1,0 +1,9 @@
+{
+  "name": "my-mods",
+  "owner": { "name": "Lars Gregori" },
+  "metadata": { "description": "Small Claude Code mods for the footer: working folder and git status." },
+  "plugins": [
+    { "name": "cwd-status", "source": "./cwd-status", "description": "Shows the folder Claude is working in on the status line." },
+    { "name": "git-status", "source": "./git-status", "description": "Shows the branch, uncommitted files and unpushed commits in the footer." }
+  ]
+}

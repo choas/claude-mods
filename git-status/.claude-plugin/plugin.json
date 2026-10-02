@@ -1,0 +1,1 @@
+{ "name": "git-status", "version": "0.1.0", "description": "Shows the branch, uncommitted files and unpushed commits in the footer.", "author": { "name": "Lars Gregori" }, "types": "./types/index.d.ts" }

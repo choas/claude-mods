@@ -1,0 +1,1 @@
+{ "name": "cwd-status", "version": "0.1.0", "description": "Shows the folder Claude is working in on the status line.", "author": { "name": "Lars Gregori" }, "types": "./types/index.d.ts" }
